@@ -2,7 +2,7 @@
 # Hunter Jenkins
 #Parallel Addition
 #Dec 12, 2023
-
+# Adding arrays to simulate 4 core processing 
 .data
     array1: .space 16       # Allocates 16 bytes for the first integer array (4 integers x 4 bytes each)
     array2: .space 16       # Allocates 16 bytes for the second integer array
