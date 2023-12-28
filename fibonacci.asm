@@ -1,5 +1,5 @@
 #-------------------------------------------------------
-#Hunter Jenkins and Dima Bondar
+#Hunter Jenkins
 #Fibonacci Sequence
 #10/20/2023
 
